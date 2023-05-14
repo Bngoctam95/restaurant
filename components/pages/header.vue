@@ -14,7 +14,7 @@
       </div>
     </header>
     <form class="search-form" :class="{active: isToggleSearch}" action="">
-      <input class="search-box" type="search" name="" placeholder="Search here...">
+      <input class="search-box" type="search" name="" placeholder="Search here....">
       <label for="search-box">
         <font-awesome-icon :icon="['fas', 'magnifying-glass']" />
       </label>
